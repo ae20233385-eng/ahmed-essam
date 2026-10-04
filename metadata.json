@@ -1,0 +1,6 @@
+{
+  "name": "Masar Software - منصة حاسبات ومعلومات لمشاريع التخرج",
+  "description": "منصة تعليمية متكاملة لطلبة حاسبات ومعلومات ومشاريع التخرج، مسارات تعلم من الصفر، إدارة فرق العمل، بنك البرومتات والذكاء الاصطناعي، ونظام تقييم ومتابعة تفاعلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
